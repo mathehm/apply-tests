@@ -1,6 +1,6 @@
 <template>
   <div class="calculator">
-    <h1>Calculator</h1>
+    <h1>Calculator 001</h1>
     <div class="calculator__view">
       <p id="result">{{ result }}</p>
     </div>
